@@ -1,3 +1,5 @@
+import 'package:weather_example/utilities/constants.dart';
+
 class WeatherForecast {
   City city;
   String cod;
